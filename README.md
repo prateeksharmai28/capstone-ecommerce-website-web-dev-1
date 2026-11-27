@@ -36,4 +36,4 @@ All images in `images/` are original SVG illustrations (small file size, sharp a
 
 ## How to run
 Open `index.html` in any browser. Keep `style.css` and the `images/` folder beside it.
-Optional GitHub Pages: Settings > Pages > Deploy from branch `main` / root.
+use the following link - 
