@@ -1,5 +1,9 @@
 # Fashionista: E-commerce Store UI
 
+## How to run
+Open `index.html` in any browser. Keep `style.css` and the `images/` folder beside it.
+use the following link - https://prateeksharmai28.github.io/capstone-ecommerce-website-web-dev-1/
+
 **Theme:** E-commerce Store UI (Web Dev I, Lab Assignment 5, Capstone: Responsive Website Project)
 Built with plain HTML5 and CSS3 only (Flexbox and Grid). No JavaScript.
 
@@ -33,7 +37,3 @@ Built with plain HTML5 and CSS3 only (Flexbox and Grid). No JavaScript.
 
 ## Images
 All images in `images/` are original SVG illustrations (small file size, sharp at any size) with meaningful `alt` text.
-
-## How to run
-Open `index.html` in any browser. Keep `style.css` and the `images/` folder beside it.
-use the following link - 
