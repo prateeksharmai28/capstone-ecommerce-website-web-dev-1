@@ -2,6 +2,7 @@
 
 ## How to run
 Open `index.html` in any browser. Keep `style.css` and the `images/` folder beside it.
+
 use the following link - https://prateeksharmai28.github.io/capstone-ecommerce-website-web-dev-1/
 
 **Theme:** E-commerce Store UI (Web Dev I, Lab Assignment 5, Capstone: Responsive Website Project)
